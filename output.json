@@ -1,0 +1,36 @@
+{
+  "Patient_Name": "Janet Jones",
+  "Accident_Date": null,
+  "Symptoms": [],
+  "Diagnosis": null,
+  "Treatment": [],
+  "Current_Status": "Improving",
+  "Prognosis": [],
+  "Keywords": [],
+  "Summary": " CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of our featured destinations for next week . Visit CNN iReport.com/Travel next Wednesday for a new gallery of snapshots .",
+  "Sentiment_and_Intent": {
+    "Sentiment": "Reassured",
+    "Intent": "Unknown"
+  },
+  "SOAP": {
+    "Subjective": {
+      "Chief_Complaint": "Neck and back pain",
+      "History_of_Present_Illness": ""
+    },
+    "Objective": {
+      "Physical_Exam": "Full range of motion in cervical and lumbar spine; no tenderness or signs of lasting damage.",
+      "Observations": "Patient reports occasional backache; no emotional issues reported."
+    },
+    "Assessment": {
+      "Diagnosis": "Whiplash injury",
+      "Severity": "Mild, improving"
+    },
+    "Plan": {
+      "Treatment": [
+        "Analgesics PRN",
+        "Physiotherapy PRN"
+      ],
+      "Follow_Up": "Return if symptoms worsen or persist beyond 6 months."
+    }
+  }
+}
